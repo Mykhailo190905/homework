@@ -63,11 +63,11 @@ nav a {
 }
 
 .last button {
-  background-color: #4CAF50; /* Зеленый фон */
-  color: white;/* Белый текст */
-  border: none; /* Без рамки */
-  padding: 8px 20px; /* Внутренние отступы */
-  font-size: 16px; /* Размер шрифта */
+  background-color: #4CAF50; 
+  color: white;
+  border: none; 
+  padding: 8px 20px; 
+  font-size: 16px;
   border-radius: 6px;
   margin-left: 100;
   
